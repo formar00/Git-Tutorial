@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         
         print("print")
         
+        print("2번째")
+        
+        
     }
 
 }
