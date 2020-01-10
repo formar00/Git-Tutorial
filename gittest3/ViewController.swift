@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let testnum = 2
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -17,6 +19,7 @@ class ViewController: UIViewController {
         
         print("2번째")
         
+        print(testnum)
         
     }
 
